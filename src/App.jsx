@@ -16,13 +16,13 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>E-Com System 1.0.0(add login) (update lable cart buttom)</h1>
+      <h1>E-Com System 3.0.0(add login) (update lable cart buttom)(e-mail service)</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
         <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
+          Edit <code>src/App.jsx</code> and save to test HMR  เฮ่อ! แก้ bug แล้ว
         </p>
       </div>
       <p className="read-the-docs">
